@@ -24,7 +24,7 @@ $lnW = $longitude;
 // $address = "〒105-0011 東京都港区芝公園４丁目２−８";
 $ANKLONGITUDE = $laW; //テスト用定数：皇居
 $ANKPARALLEL = $lnW; //テスト用定数：皇居
-$bearer_token='gBOlZCs3MqdcBN-utSVkxZhoeb5Or6TuSrkryY9L6yX2_vtwOHmqZePPajbvdKdWzy5p4mP_myKUwmCOn3sj_h462lCjiZvqijASt1uxmWarx-1fd-NFcSypyuTok-3HdH5flgMx7qL3N-_zWDRay6KXOb-0RWG2hupYzfmSif0yyBnu3VkIKzDCVLqvrK0jn46Io1Xrfx2APo1Z3TK4ZWkzZabr4Sov-OH5mOZr6BoAognafJIUny5XFH5vLA_RA9YWI0z_29_lTqu4jdJ7aBUFDN26dD4Uf0BQT_CuVhPpiSxvEDS66I2zICMXYN_LisYG1hC0ls1KnuxQcn1z1qEr5_vKCN3f3p6e_-VqRKTV9cp28c_SRid3PLBo0S2cIOxcIxfau4WQjJP-GQPKgiAs0UpDqvfQo_ufIXxLlItywhvGm6e0c0nGVUZD1rArBufhglS408xxD2Qy2wTKiWEjt6eeWI7xtvjVUSDy8rQMP7qc3yeFIIJ5YfJMX7SI';
+$bearer_token='g*********************************lCjiZvqijASt1uxmWarx-1fd-NFcSypyuTok-3HdH5flgMx7qL3N-_zWDRay6KXOb-0RWG2hupYzfmSif0yyBnu3VkIKzDCVLqvrK0jn46Io1Xrfx2APo1Z3TK4ZWkzZabr4Sov-OH5mOZr6BoAognafJIUny5XFH5vLA_RA9YWI0z_29_lTqu4jdJ7aBUFDN26dD4Uf0BQT_CuVhPpiSxvEDS66I2zICMXYN_LisYG1hC0ls1KnuxQcn1z1qEr5_vKCN3f3p6e_-VqRKTV9cp28c_SRid3PLBo0S2cIOxcIxfau4WQjJP-GQPKgiAs0UpDqvfQo_ufIXxLlItywhvGm6e0c0nGVUZD1rArBufhglS408xxD2Qy2wTKiWEjt6eeWI7xtvjVUSDy8rQMP7qc3yeFIIJ5YfJMX7SI';
 $keyid='';
 
 $url='http://hackathon.support-cloud-projects.com/LaundromatWebApi/api/shopinfo?ANKLONGITUDE=';
