@@ -1,5 +1,5 @@
 <?php
-$accessToken = 'X3mLgQD3To/vB2wcvOJ05CGwSw2n+F0R3DBAvhHNKMrmZ9WlNj8ds1BFR/rOrgf2zn38rg+tHdDKhUlQhjLKnNbvWTVYW+1vDrJTPUJ7HcdKrcGvgdxhyAwfZU3Q/HFSyO5cidCnL6CxtPNzQ0G6XAdB04t89/1O/w1cDnyilFU=';
+$accessToken = '************************************************************************************************';
 
 //ユーザーからのメッセージ取得
 $json_string = file_get_contents('php://input');
@@ -60,7 +60,7 @@ foreach ($result->DataModel as $res) {
 
 
 //食べログの処理を叩く
-$gnaviaccesskey = '728bb6d9dc362bd7ba201e116376222d';
+$gnaviaccesskey = '******************************';
 
 //ユーザーからのメッセージ取得
 // $json_string = file_get_contents('php://input');
